@@ -3,7 +3,7 @@
     {
       "docset_name": "E2E_EnableGoLive",
       "build_source_folder": "E2E_EnableGoLive",
-      "build_output_subfolder": "E2E_DocFxV3",
+      "build_output_subfolder": "E2E_EnableGoLive",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -31,6 +31,5 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false,
-  "use_docfxv3": true
+  "need_generate_pdf_url_template": false
 }
