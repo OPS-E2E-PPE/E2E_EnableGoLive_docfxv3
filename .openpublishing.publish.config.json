@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "E2E_EnableGoLive",
+      "docset_name": "E2E_EnableGoLive_docfxv3",
       "build_source_folder": "E2E_EnableGoLive",
-      "build_output_subfolder": "E2E_EnableGoLive",
+      "build_output_subfolder": "E2E_EnableGoLive_docfxv3",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -48,5 +48,6 @@
     }
   ],
   "branch_target_mapping": {},
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "use_docfxv3": true
 }
